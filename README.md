@@ -2,6 +2,9 @@
 [![Artists Company](https://raw.githubusercontent.com/creosB/presentation/main/background.png)](https://artistscompany.tech/)
 ## I published the project in which we play the rhythm game by detecting the movements of the player from any camera connected to the computer.
 
+HandSaber is an Open Source project which allows users to control their computer and gaming systems using hand gestures.
+From controlling your music, to powering up your favorite games, HandSaber lets you wield technology like a Jedi master!
+
 [![sponsor](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/creos)
 
 # Özelikleri / Properties
