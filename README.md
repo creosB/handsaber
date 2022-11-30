@@ -34,6 +34,8 @@
 - I used to runtime audio plugin for play, stop or etc. function in runtime
 - Due to its size, the entire project could not be loaded. If you want full access to the project, you can download it here.
 https://drive.google.com/file/d/11Bi6n9NAVaUWr5pYDNSe0tqRjuSCR17R/view?usp=sharing
+- I'm not rotating the saber but you can add this function on handsaber. I tried on Unity Engine before this Unreal Engine version aaaand it's working. You can check the video.
+https://drive.google.com/file/d/1P0AH1Ouhtwm5MCyWmRDnuyCmVo5Nt0dB/view?usp=sharing
 ***
 
 [![game](https://static.itch.io/images/badge.svg)](https://artistscompany.itch.io/hand-saber)
