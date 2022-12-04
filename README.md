@@ -39,6 +39,8 @@ From controlling your music, to powering up your favorite games, HandSaber lets 
 https://drive.google.com/file/d/11Bi6n9NAVaUWr5pYDNSe0tqRjuSCR17R/view?usp=sharing
 - I'm not rotating the saber but you can add this function on handsaber. I tried on Unity Engine before this Unreal Engine version aaaand it's working. You can check the video.
 https://drive.google.com/file/d/1P0AH1Ouhtwm5MCyWmRDnuyCmVo5Nt0dB/view?usp=sharing
+- extract file with 7zip or etc.
+- Check your default camera settings with windows camera app. If you see yourself that app, your setup is done and you can play. When your hand detect on camera sabers will come your hands.
 ***
 
 [![game](https://static.itch.io/images/badge.svg)](https://artistscompany.itch.io/hand-saber)
