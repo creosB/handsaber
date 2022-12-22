@@ -1,5 +1,5 @@
 # HandSaber
-[![Artists Company](https://raw.githubusercontent.com/creosB/presentation/main/background.png)](https://artistscompany.tech/)
+[![Artists Company](https://raw.githubusercontent.com/creosB/presentation/main/background.png)](https://artistscompany.net/)
 ## I published the project in which we play the rhythm game by detecting the movements of the player from any camera connected to the computer.
 
 HandSaber is an Open Source project which allows users to control their computer and gaming systems using hand gestures.
